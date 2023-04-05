@@ -2,7 +2,7 @@
     font-family: "segoe UI", Tahoma, Verdana, Geneva, sans-serif;
   }
   body{
-    background-image: url(img01.jpg);
+    background-color: #0f0718;
     min-height: 90vh;
     display: flex;
     justify-content: center;
